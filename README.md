@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>I am Muhammad Talha</h1>
-        <h2>Beginner Develop</h2>
+        <h2>Beginner Developer</h2>
         <hr/>
         <h3><a href="./index1.html">My Favourite Movies</a></h3>
         <img src="./movie.png" alt="The Avatar,">
